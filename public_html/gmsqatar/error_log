@@ -1,0 +1,5 @@
+[24-Jun-2024 14:41:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'name' doesn't have a default value in /home/clientdemo/garage-admin.myclientdemo.us/adminFunction.php:354
+Stack trace:
+#0 /home/clientdemo/garage-admin.myclientdemo.us/adminFunction.php(354): mysqli_query(Object(mysqli), 'INSERT INTO `jo...')
+#1 {main}
+  thrown in /home/clientdemo/garage-admin.myclientdemo.us/adminFunction.php on line 354
